@@ -1,5 +1,5 @@
 # Tensorflow Today I Learned
-all codes are compatible with tensorflow 1.6.0
+all codes are compatible with python3, tensorflow 1.6.0
 
 ## data_augment_example.ipynb
 : Example for image data augmentation using Dataset API
