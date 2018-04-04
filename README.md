@@ -8,4 +8,4 @@ all codes are compatible with python3, tensorflow 1.6.0
 : make pipeline using Dataset API and Kaggle data
 
 ## _resnet18-v1_fashion_mnist.ipynb
-: Fashion MNIST classification using resnet v1 model (93.49% accuracy)
+: Fashion MNIST classification using resnet v1 model (93.65% accuracy)
